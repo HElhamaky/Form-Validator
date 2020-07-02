@@ -101,4 +101,14 @@ h2{
     .container{
         width: 20rem;
     }
+
+    .form-control small{
+        color: var(--error-color);
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        visibility: hidden;
+        font-size: 8pt;
+    }
+    
   }
