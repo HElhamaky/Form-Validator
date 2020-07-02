@@ -50,7 +50,7 @@ h2{
 }
 
 .form-control input{
-    border: 2px solid #f0f0f0;
+    border: 2px solid rgb(209, 208, 208);
     border-radius: 4px;
     display: block;
     width: 100%;
